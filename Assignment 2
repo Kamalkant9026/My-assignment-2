@@ -1,0 +1,22 @@
+1. Visual Studio Code Setup
+Step 1: Download Visual Studio Code from its official website.
+Step 2: Install VS Code on your computer.
+Step 3: Open VS Code.
+Step 4: Create a new folder for your assignment
+2. Node.js Setup
+Step 1: Download Node.js from its official website.
+Step 2: Install Node.js.
+Step 3: Open the terminal in VS Code.
+Step 4: Type the following commands:
+node -v
+npm -v
+Step 5: Press Enter to check the installed versions.
+3. Live Server Setup
+Step 1: Open VS Code.
+Step 2: Click on the Extensions icon.
+Step 3: Search for Live Server.
+Step 4: Click on Install.
+Step 5: Create a file named index.html.
+Step 6: Write some basic HTML code.
+Step 7: Right-click on the HTML file and select Open with Live Server.
+Step 8: The webpage will open in your browser.
